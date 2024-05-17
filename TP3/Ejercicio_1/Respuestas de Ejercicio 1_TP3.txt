@@ -1,0 +1,5 @@
+Ejercicio 1
+a)_ Con respecto a los tiempos de ejecución de cada uno se diferencian por apenas 1 segundo. Si es predecible, con hilos no cambia de 4,0 segundos
+y sin hilos no cambia de 5,1 segundos.
+b)_ Con mi compañero hicimos la comparación y son casi iguales los tiempos de ejecución(milésimas nomás).
+c)_ Lo que sucedió al momento de descomentar las líneas 11, 12, 19 y 20 fue que al agregar otro FOR dentro del FOR principal hizo que haga una iteración de mil veces más y la computadora tarde un poco más, por lo tanto la diferencia de tiempo con "#" es de 0,0 segundos y sin "#" fue entre 2,0 y 2,1 segundos. Otra diferencia notable es el Valor Final de cada uno; sin agregar el comentario su valor será igual a 0 y al descomentar varía su valor entre números positivos y negativos.
